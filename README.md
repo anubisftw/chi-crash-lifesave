@@ -8,5 +8,6 @@ NON-INCAPACITATING INJURY
 POSSIBLE INJURY
 INCAPACITATING INJURY
 FATAL
+
 We have included a number of features in the dataset, such as weather conditions, road surface conditions, and vehicle types, that may influence the severity of an accident.
 
